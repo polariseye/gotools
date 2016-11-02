@@ -1,0 +1,1 @@
+gopathtool：这是一个把当前路径添加到gopath的一个工具
